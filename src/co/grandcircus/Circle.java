@@ -2,7 +2,7 @@ package co.grandcircus;
 
 public class Circle {
 	
-	double radius;
+	private double radius;
 	// circumference = 2 * pi * radius
 	// area = pi * radius^2
 	public Circle(double radius) {
